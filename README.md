@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Hwi Vo (HuyMin)
+# 👋 Hello, I'm HuyMin
 
 <p align="center">
   <img src="https://scontent-ord5-1.xx.fbcdn.net/v/t1.6435-9/67161393_691057748008191_617762794204299264_n.jpg?stp=dst-jpg_fb50_s320x320_tt6&_nc_cat=106&ccb=1-7&_nc_sid=cc71e4" width="150" alt="HuyMin Avatar">
@@ -18,7 +18,7 @@
 I'm a **Software Engineer & AI Enthusiast** from **Ho Chi Minh City, Vietnam** 🇻🇳, building **X-Agent** - a self-improving AI agent that learns from experience.
 
 ### 📚 Education
-- **Cao Đẳng Công Nghệ Thông Tin - TP.HCM** | Kế toán doanh nghiệp
+- **Cao Đẳng Công Nghệ Thông Tin - TP.HCM** | CNC APTECH
 - **THPT Tân Bình** (Alumni)
 
 ### 🎯 What I Do
