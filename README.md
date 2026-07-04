@@ -1,7 +1,7 @@
-# 👋 Hello, I'm HuyMin
+# 👋 Hello, I'm HuyMin (Hwi Vo)
 
 <p align="center">
-  <img src="[https://scontent-ord5-1.xx.fbcdn.net/v/t1.6435-9/67161393_691057748008191_617762794204299264_n.jpg?stp=dst-jpg_fb50_s320x320_tt6&_nc_cat=106&ccb=1-7&_nc_sid=cc71e4](https://scontent.fsgn8-4.fna.fbcdn.net/v/t39.30808-6/441623776_1877236039390350_3244216735666235909_n.jpg?stp=dst-jpg_tt6&cstp=mx720x726&ctp=s720x726&_nc_cat=103&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeE8C6JZvRM0lhiuS5UwbsAkFSGahXeh7u4VIZqFd6Hu7uqGraCW1wQ5oVMBvHqkOreSp35g4gxwb5ZGk_Ag6u0W&_nc_ohc=QbYpkL2DS4gQ7kNvwEHqzTM&_nc_oc=AdqeI6E1NxE2xY_fiQJKFDBHc_uNxcVDis-WAcT2-J_nOriCVKLEgBh2kC7nmyPi_ic&_nc_zt=23&_nc_ht=scontent.fsgn8-4.fna&_nc_gid=AsVH306NESGxrl5lIoz__g&_nc_ss=7b2a8&oh=00_AQDlUBuIKEh3GvOm6Sj5PSZeBzDsYnw9w1jg55U1JHWefQ&oe=6A4EE13F)" width="150" alt="HuyMin Avatar">
+  <img src="https://raw.githubusercontent.com/huyminvo/huyminvo/main/avatar.jpg" width="200" alt="HuyMin Avatar" style="border-radius: 50%;">
 </p>
 
 <p align="center">
